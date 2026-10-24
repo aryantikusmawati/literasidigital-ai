@@ -1,1 +1,357 @@
+100 Istilah Literasi Digital dalam Penulisan Buku, Jurnal Ilmiah, dan Publikasi Digital
+Panduan praktis berdasarkan tahapan penulisan bagi mahasiswa, penulis, dan peneliti
 
+Pendahuluan
+
+Penulisan buku, jurnal ilmiah, dan publikasi digital membutuhkan pemahaman tentang literasi digital. Penulis tidak hanya dituntut mampu menyusun kalimat, tetapi juga perlu mengetahui cara mencari sumber informasi, mengelola referensi, memanfaatkan teknologi, menjaga etika akademik, serta menerbitkan karya melalui platform digital.
+
+Artikel ini memuat 100 istilah yang dikelompokkan berdasarkan tahapan penulisan. Pengelompokan ini membantu pembaca memahami kapan suatu istilah digunakan dan bagaimana penerapannya dalam kegiatan menulis.
+
+---
+
+ Tahap 1. Menentukan Ide dan Merencanakan Tulisan
+
+Tahap awal penulisan dimulai dengan menentukan topik, tujuan, sasaran pembaca, dan ruang lingkup karya.
+
+1. Literasi Digital (Digital Literacy)
+Kemampuan menggunakan teknologi digital untuk mengakses, mengevaluasi, membuat, dan membagikan informasi secara bertanggung jawab.
+
+2. Penulisan Digital (Digital Writing)
+Proses membuat dan mengembangkan tulisan dengan bantuan perangkat dan platform digital.
+
+3. Brainstorming Digital 
+Proses mengumpulkan dan mengembangkan ide menggunakan aplikasi digital atau alat bantu AI.
+
+4. Pemilihan Topik (Topic Selection)  
+Proses menentukan tema yang relevan, menarik, dan sesuai dengan tujuan penulisan.
+
+5. Rumusan Masalah (Problem Statement)
+Pernyataan yang menjelaskan persoalan utama yang hendak dibahas atau diteliti.
+
+6. Tujuan Penulisan (Writing Objectives) 
+Pernyataan mengenai hasil yang ingin dicapai melalui suatu tulisan.
+
+7. Sasaran Pembaca (Target Audience) 
+Kelompok pembaca yang menjadi tujuan suatu karya, misalnya mahasiswa, peneliti, atau masyarakat umum.
+
+8. Kerangka Tulisan (Outline)
+Rancangan yang mengatur urutan bagian, bab, dan subbab sebelum naskah dikembangkan.
+
+9. Peta Pikiran Digital (Digital Mind Mapping) 
+Teknik visual untuk menghubungkan ide dan mengorganisasi informasi menggunakan aplikasi digital.
+
+10. Prompt AI (*AI Prompt)
+Instruksi atau masukan yang diberikan kepada sistem AI untuk membantu menghasilkan ide, pertanyaan, atau kerangka tulisan.
+
+ Tahap 2. Mencari dan Mengumpulkan Informasi
+
+Pada tahap ini, penulis mencari sumber yang relevan dan mengumpulkan informasi yang mendukung isi karya.
+
+11. Literasi Informasi (Information Literacy)
+Kemampuan mengenali kebutuhan informasi, menemukan sumber, mengevaluasi kualitasnya, dan menggunakannya secara tepat.
+
+12. Mesin Pencari (Search Engine)  
+Layanan digital untuk menemukan halaman web dan informasi berdasarkan kata kunci.
+
+13. Basis Data Akademik (Academic Database) 
+Sistem yang menyediakan informasi bibliografi atau dokumen ilmiah, seperti artikel jurnal dan makalah penelitian.
+
+14. Google Scholar
+Layanan pencarian untuk menemukan literatur ilmiah dari berbagai sumber akademik.
+
+15. Repositori Digital (Digital Repository)
+Sistem penyimpanan dan penyediaan akses terhadap dokumen digital, termasuk karya ilmiah.
+
+16. Kata Kunci (Keywords)  
+Kata atau frasa yang mewakili topik dan digunakan untuk menemukan informasi yang relevan.
+
+17. Strategi Pencarian (Search Strategy)  
+Perencanaan kata kunci, operator pencarian, dan batasan untuk memperoleh sumber yang sesuai.
+
+18. Operator Boolean (Boolean Operators) 
+Kata seperti AND, OR, dan NOT yang digunakan untuk memperluas atau mempersempit pencarian informasi.
+
+19. Akses Terbuka (Open Acces)
+Ketersediaan akses daring terhadap karya ilmiah tanpa biaya membaca, sesuai ketentuan lisensi yang berlaku.
+
+20. Evaluasi Sumber (Source Evaluation) 
+Proses menilai kredibilitas, relevansi, kemutakhiran, dan keandalan suatu sumber.
+
+ Tahap 3. Membaca dan Menilai Referensi
+
+Setelah mengumpulkan sumber, penulis perlu membaca secara kritis, membandingkan temuan, dan mencatat informasi yang relevan.
+
+21. Literasi Media (Media Literacy) 
+Kemampuan memahami dan mengevaluasi pesan yang disampaikan melalui media digital.
+
+22. Berpikir Kritis Digital (Digital Critical Thinking)
+Kemampuan memeriksa klaim, menilai bukti, dan mempertimbangkan informasi digital secara logis.
+
+23. Kajian Pustaka (Literature Review)  
+Telaah sistematis atau terstruktur terhadap literatur yang relevan dengan suatu topik.
+
+24. Artikel Ilmiah (Scientific Article)  
+Tulisan akademik yang menyajikan hasil penelitian, kajian, atau analisis berdasarkan metode yang dapat dipertanggungjawabkan.
+
+25. Jurnal Ilmiah (Scholarly Journal) 
+Terbitan berkala yang memuat artikel ilmiah.
+
+26. DOI (Digital Object Identifier)
+Pengenal persisten untuk objek digital tertentu, termasuk banyak publikasi ilmiah.
+
+27. Metadata (Metadata)
+Informasi yang menjelaskan suatu sumber, seperti judul, penulis, tanggal, penerbit, atau pengenal digital.
+
+28. Abstrak (Abstract)
+Ringkasan artikel ilmiah yang umumnya memuat tujuan, metode, hasil, dan kesimpulan.
+
+29. Catatan Digital (Digital Notes)
+Catatan elektronik yang digunakan untuk menyimpan gagasan, kutipan, dan ringkasan bacaan.
+
+30. Sintesis Literatur (Literature Synthesis)
+Proses menggabungkan dan membandingkan temuan dari beberapa sumber untuk menghasilkan pemahaman yang lebih menyeluruh.
+
+Tahap 4. Mengelola Referensi dan Data
+
+Pengelolaan sumber yang baik membantu penulis menjaga ketepatan sitasi dan memudahkan pemeriksaan kembali.
+
+31. Manajer Referensi (Reference Manager)  
+Perangkat lunak untuk mengumpulkan, mengatur, dan menyisipkan referensi dalam dokumen.
+
+32. Zotero
+Aplikasi pengelolaan referensi yang membantu menyimpan sumber dan membuat sitasi.
+
+33. Mendeley
+Perangkat pengelolaan referensi yang membantu mengatur literatur dan menyusun kutipan.
+
+34. Sitasi (Citation)
+Penunjukan sumber yang digunakan untuk mendukung gagasan atau informasi dalam tulisan.
+
+35. Daftar Pustaka (References) 
+Daftar sumber yang dirujuk dalam suatu karya tulis.
+
+36. Gaya Sitasi (Citation Style)
+Aturan penulisan kutipan dan referensi, misalnya APA atau Chicago.
+
+37. Kutipan Langsung (Direct Quotation)
+Penggunaan kata-kata sumber secara persis dengan mengikuti aturan kutipan dan atribusi.
+
+38. Parafrasa (Paraphrasing)
+Penyampaian kembali gagasan dari sumber dengan susunan kata sendiri tanpa mengubah makna dan tetap mencantumkan sumber.
+
+39. Manajemen Data (Data Management)
+Proses mengatur, menyimpan, mendokumentasikan, dan memelihara data agar mudah ditemukan dan digunakan kembali.
+
+40. Pencadangan Data (Data Backup)
+Pembuatan salinan data untuk mengurangi risiko kehilangan dokumen atau informasi.
+
+Tahap 5. Menulis dan Mengembangkan Naskah
+
+Tahap ini mencakup penyusunan paragraf, pengembangan argumen, dan penggunaan perangkat digital untuk menulis.
+
+41. Pengolah Kata (Word Processor)
+Aplikasi untuk membuat, mengedit, dan memformat dokumen teks.
+
+42. Dokumen Kolaboratif (Collaborative Document) 
+Dokumen digital yang memungkinkan beberapa orang menyunting atau memberikan komentar sesuai izin akses.
+
+43. Penyimpanan Awan (Cloud Storage) 
+Layanan penyimpanan berkas melalui internet agar dapat diakses dari perangkat yang didukung.
+
+44. Draf (Draft)  
+Versi awal tulisan yang masih dapat dikembangkan dan diperbaiki.
+
+45. Struktur Tulisan (Document Structure)
+Susunan bagian dalam karya, seperti pendahuluan, isi, pembahasan, dan penutup.
+
+46. Paragraf Akademik (Academic Paragraph) 
+Unit tulisan yang mengembangkan satu gagasan utama dengan penjelasan atau bukti pendukung.
+
+47. Alur Argumentasi (Argument Flow)
+Urutan alasan dan bukti yang membentuk penjelasan atau pendapat yang logis.
+
+48. Penyuntingan Mandiri (Self-Editing) 
+Proses meninjau dan memperbaiki tulisan yang dilakukan oleh penulis sendiri.
+
+49. Pemeriksaan Tata Bahasa (Grammar Check)
+Penggunaan alat atau proses untuk menemukan masalah tata bahasa dan struktur kalimat.
+
+50. Riwayat Versi (Version History)  
+Catatan perubahan dokumen yang memungkinkan penulis meninjau atau memulihkan versi sebelumnya.
+
+ Tahap 6. Menggunakan AI dalam Penulisan
+
+AI dapat membantu beberapa pekerjaan penulisan, tetapi hasilnya harus ditinjau dan diverifikasi oleh penulis.
+
+51. Kecerdasan Buatan (Artificial Intelligence/AI)
+Teknologi yang memungkinkan sistem komputer menjalankan tugas seperti pengenalan pola, pemrosesan bahasa, dan prediksi.
+
+52. AI Generatif (Generative AI)
+AI yang mampu menghasilkan konten baru, seperti teks, gambar, audio, atau kode.
+
+53. Model Bahasa Besar (Large Language Model/LLM)
+Model AI yang dilatih untuk memproses dan menghasilkan bahasa.
+
+54. Prompt Engineering  
+Proses merancang dan menyempurnakan instruksi agar hasil AI sesuai kebutuhan.
+
+55. Penyuntingan Berbantuan AI (AI-Assisted Editing)
+Pemanfaatan AI untuk membantu memperbaiki struktur, kejelasan, atau tata bahasa tulisan.
+
+56. Ringkasan Otomatis (Automatic Summarization)
+Penggunaan teknologi untuk menghasilkan ringkasan dari teks atau dokumen.
+
+57. Halusinasi AI (AI Hallucination)
+Keluaran AI yang tampak meyakinkan tetapi mengandung informasi salah atau tidak didukung bukti.
+
+58. Bias AI (AI Bias)
+Kecenderungan keluaran AI yang dapat mencerminkan ketimpangan atau menghasilkan perlakuan tidak adil.
+
+59. Verifikasi Fakta (Fact-Checking) 
+Proses memeriksa kebenaran klaim melalui bukti dan sumber yang dapat dipercaya.
+
+60. Pengungkapan Penggunaan AI (AI Use Disclosure)
+Penjelasan tentang penggunaan AI dalam proses penulisan apabila diwajibkan atau relevan menurut kebijakan penerbit dan institusi.
+
+Tahap 7. Menjaga Etika dan Integritas Akademik
+
+Penulis bertanggung jawab terhadap keaslian karya, penggunaan sumber, dan ketepatan informasi yang diterbitkan.
+
+61. Etika Digital (Digital Ethics)
+Prinsip moral yang membimbing perilaku saat menggunakan teknologi dan berinteraksi di ruang digital.
+
+62. Integritas Akademik (Academic Integrity)
+Komitmen terhadap kejujuran, tanggung jawab, dan etika dalam kegiatan akademik.
+
+63. Plagiarisme (Plagiarism)
+Penggunaan karya atau gagasan orang lain tanpa pengakuan yang semestinya.
+
+64. Pemeriksaan Kemiripan Teks (Text Similarity Check)
+Proses membandingkan teks dengan sumber lain untuk menemukan bagian yang serupa; skor kemiripan tidak otomatis membuktikan plagiarisme.
+
+65. Hak Cipta (Copyright)
+Perlindungan hukum atas karya yang memenuhi ketentuan hak cipta.
+
+66. Lisensi Creative Commons (Creative Commons License)  
+Lisensi yang memungkinkan pencipta menetapkan syarat penggunaan dan pembagian karyanya.
+
+67. Atribusi (Attribution) 
+Pemberian pengakuan kepada pencipta atau sumber suatu karya.
+
+68. Persetujuan Etis (Ethical Approval)  
+Persetujuan dari komite atau lembaga yang berwenang apabila penelitian memerlukan penelaahan etika.
+
+69. Privasi Digital (Digital Privacy) 
+Perlindungan informasi pribadi dalam penggunaan layanan dan teknologi digital.
+
+70. Transparansi Penelitian (Research Transparency)
+Kejelasan tentang metode, sumber, prosedur, dan informasi relevan yang diperlukan untuk menilai penelitian.
+
+ Tahap 8. Menyunting, Memformat, dan Menyiapkan Naskah
+
+Sebelum diterbitkan, naskah perlu diperiksa dari sisi isi, bahasa, format, dan keterbacaan.
+
+71. Penyuntingan (Editing)
+Proses memperbaiki isi, organisasi, bahasa, dan konsistensi tulisan.
+
+72. Koreksi Cetak (Proofreading)
+Pemeriksaan akhir untuk menemukan kesalahan ejaan, tanda baca, dan detail format.
+
+73. Tata Letak (Layout)
+Pengaturan posisi teks, gambar, margin, dan elemen halaman.
+
+74. Tipografi (Typography)  
+Pengaturan jenis huruf, ukuran, spasi, dan karakter visual teks.
+
+75. Templat Dokumen (Document Template)
+Format siap pakai yang membantu menjaga konsistensi tampilan dokumen.
+
+76. Format Naskah (Manuscript Formatting)  
+Penyesuaian tampilan naskah sesuai pedoman penerbit atau jurnal.
+
+77. Gaya Sel Style Sheet
+Pedoman konsistensi istilah, ejaan, kapitalisasi, dan format dalam suatu naskah.
+
+78. Teks Alternatif (Alt Text)
+Deskripsi tekstual gambar yang membantu pengguna pembaca layar memahami konten visual.
+
+79.Aksesibilitas Digital (Digital Accessibility)  
+Upaya membuat dokumen dan konten digital dapat digunakan oleh orang dengan beragam kemampuan.
+
+80. Pemeriksaan Tautan (Link Checking)
+Proses memastikan tautan dalam dokumen atau publikasi mengarah ke sumber yang tepat dan masih dapat diakses.
+
+Tahap 9. Menerbitkan dan Mendistribusikan Karya
+
+Pada tahap publikasi, penulis menyesuaikan naskah dengan format, persyaratan, dan platform yang digunakan.
+
+81. Penerbitan Digital (Digital Publishing)
+Proses menerbitkan dan mendistribusikan karya melalui media atau platform digital.
+
+ 82.Buku Elektronik(E-book)  
+Buku yang diterbitkan dalam format digital untuk dibaca menggunakan perangkat elektronik.
+
+83.PDF (Portable Document Format)
+Format dokumen yang dirancang untuk mempertahankan tata letak halaman.
+
+84.EPUB (Electronic Publication)
+Format publikasi digital yang mendukung teks yang dapat menyesuaikan diri dengan ukuran layar.
+
+85. ISBN (International Standard Book Number)  
+Nomor standar untuk mengidentifikasi edisi atau format tertentu dari buku.
+
+86. Sistem Manajemen Konten (Content Management System/CMS) 
+Perangkat lunak untuk membuat, mengelola, dan menerbitkan konten situs web.
+
+87. Blog (Weblog)
+Situs atau bagian situs yang digunakan untuk menerbitkan artikel dan konten secara daring.
+
+88. Sistem Pengelolaan Jurnal (Journal Management System)  
+Perangkat lunak untuk membantu proses pengiriman, penelaahan, penyuntingan, dan penerbitan artikel jurnal.
+
+89. Penelaahan Sejawat (Peer Review)
+Proses penilaian naskah ilmiah oleh ahli sebidang.
+
+90. Metadata Publikasi (Publication Metadata) 
+Informasi publikasi, seperti judul, penulis, abstrak, kata kunci, tanggal, dan pengenal digital.
+
+Tahap 10. Mempromosikan dan Mengevaluasi Publikasi
+
+Setelah diterbitkan, karya perlu disebarluaskan dan dievaluasi agar mudah ditemukan serta dapat memberi manfaat bagi pembaca.
+
+91. Optimasi Mesin Pencari (Search Engine Optimization/SEO)  
+Upaya meningkatkan keterlihatan konten pada hasil mesin pencari.
+
+92. URL (Uniform Resource Locator) 
+Alamat yang digunakan untuk mengakses halaman atau sumber daya di internet.
+
+93. Hyperlink  
+Tautan yang menghubungkan suatu teks atau elemen dengan halaman atau sumber lain.
+
+94. Tag dan Kategori (Tags and Categories)
+Fitur untuk mengelompokkan konten berdasarkan tema atau topik.
+
+95. Analitik Web (Web Analytics)  
+Pengumpulan dan analisis data penggunaan situs untuk memahami aktivitas pengunjung.
+
+96. Indeksasi (Indexing)
+Proses memasukkan informasi publikasi ke dalam basis data atau indeks agar dapat ditemukan melalui pencarian.
+
+ 97. Sitasi Akademik (Academic Citation)
+Penggunaan atau penyebutan suatu karya dalam karya ilmiah lain yang dapat membantu menunjukkan hubungan antarpublikasi.
+
+98. Repositori Institusi (Institutional Repository)  
+Sistem yang dikelola institusi untuk menyimpan dan menyediakan akses ke karya akademik.
+
+99. Promosi Digital (Digital Promotion) 
+Upaya memperkenalkan dan menyebarkan karya melalui kanal digital, seperti blog, media sosial, atau buletin elektronik.
+
+100. Evaluasi Dampak Publikasi (Publication Impact Evaluation)  
+Proses menilai jangkauan, penggunaan, tanggapan pembaca, atau pengaruh suatu publikasi menggunakan indikator yang sesuai.
+
+---
+ Penutup
+
+Memahami 100 istilah tersebut membantu mahasiswa, penulis, dan peneliti menjalani proses penulisan secara lebih terstruktur. Literasi digital tidak berhenti pada kemampuan menggunakan perangkat, tetapi juga mencakup kecakapan menemukan informasi, mengelola referensi, menggunakan AI secara kritis, menjaga integritas akademik, serta menerbitkan karya dengan memperhatikan aksesibilitas dan etika.
+
+Setiap tahap penulisan memiliki kebutuhan yang berbeda. Karena itu, penulis sebaiknya memilih alat digital berdasarkan kebutuhan, memeriksa keakuratan informasi, dan mengikuti pedoman penerbit atau jurnal yang di tuju.
